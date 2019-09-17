@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="layoutPadding"> 5dp </dimen>
+    <dimen name="topPadding"> 10dp </dimen>
+    <dimen name="thumbNailMinWidth"> 36dp </dimen>
+    <dimen name="thumbNailMinHeight"> 36dp </dimen>
+    <dimen name="descriptionTextSize"> 24sp </dimen>
+
+
+
+</resources>
